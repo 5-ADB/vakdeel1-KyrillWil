@@ -1,5 +1,7 @@
 // elke oefening in een appart bestand
 
+//ai gebruikt voor controle
+
 //number
 let getal = 1
 //string
@@ -8,7 +10,7 @@ const naam = "Kyrill"
 const komma = 0.1
 //undifined
 const geen = undefined
-//boolean
+//bool
 const ja = true
 //null
 let leeg = null

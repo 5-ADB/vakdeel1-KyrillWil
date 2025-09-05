@@ -5,5 +5,6 @@ const getal3 = 3
 const vermenigvuldiging = getal2 * getal3
 
 console.log(`${getal1 / getal2}`);
+//rest
 console.log(`De rest is ${getal1 % getal2}`);
 
